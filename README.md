@@ -1,13 +1,7 @@
-# Heart-Disease-Prediction-using-Machine-Learning
 # Heart Disease Risk Prediction using Machine Learning
 
 This project builds an **end-to-end Heart Disease Risk Prediction system** using Machine Learning classification techniques.  
 Multiple models are trained, tuned, evaluated, and the best-performing model is deployed using **Streamlit** for real-time risk prediction.
-
-## Project Overview
-
-Heart disease is one of the leading causes of death worldwide.  
-This project predicts whether a patient is at **high risk or low risk of heart disease** based on demographic, lifestyle, and medical features using supervised machine learning models.
 
 ## Key Features
 

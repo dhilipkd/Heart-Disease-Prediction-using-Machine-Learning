@@ -60,6 +60,11 @@ Models are evaluated using healthcare-relevant metrics:
 
 The **best model is selected based on ROC AUC score**.
 
+<img width="1908" height="982" alt="image" src="https://github.com/user-attachments/assets/48e32fe7-87b2-47b4-a922-9b72d6d5f91a" />
+
+## App link
+https://heart-disease-prediction-using-machine-learning-brqqfxnhxzpayj.streamlit.app/
+
 ## Model Saving
 ```python
 import joblib
